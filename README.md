@@ -65,3 +65,5 @@
       </style>
       ```
     - **Explanation:** Both `<p>` elements inside the `<div>` will be red, regardless of their nesting level.
+
+By ZvSimon
