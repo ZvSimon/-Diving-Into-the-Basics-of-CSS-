@@ -8,10 +8,9 @@ body {
 
 .section-title {
     color: #2ddf5c;
-    font-family: 'Anton', sans-serif;
 }
 
-h1 {
+#product-overview h1 {
     color: white;
     font-family: 'Anton', sans-serif;
 }
